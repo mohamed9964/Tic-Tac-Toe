@@ -1,0 +1,52 @@
+* 
+{
+	box-sizing: border-box;
+}
+body {
+	background-color: #aaa;
+}
+td {
+	border:  2px solid #2dcc70;
+	height:  100px;
+	width:  100px;
+    background-color: #434343;
+	color: #ddd;
+	text-align:  center;
+	vertical-align:middle;
+	font-family:  Arial, Tahoma;
+	font-size:  70px;
+	cursor: pointer;
+}
+
+table {
+	border-collapse: collapse;
+	position: absolute;
+	left: 50%;
+	margin-left: -155px;
+	top: 50px;
+}
+
+.endgame {
+  display: none;
+  width: 200px;
+  top: 120px;
+  background-color:white;
+  position: absolute;
+  left: 50%;
+  margin-left: -100px;
+  padding: 50px 30px;
+  text-align: center;
+  border-radius: 5px;
+  color: chartreuse;
+  font-size: 35px;
+}
+button {
+	background:#434343;
+	border: 3px solid #2dcc70;
+	top: 400px;
+	left: 45%;
+	position: absolute;
+	padding: 10px 50px;
+	color: #2dcc70;
+	font-weight: bold;
+}
