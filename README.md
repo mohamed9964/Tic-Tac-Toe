@@ -1,1 +1,1 @@
-# Tic-Tac-Toe With AI
+# Tic-Tac-Toe by using the Minimax algorithm
